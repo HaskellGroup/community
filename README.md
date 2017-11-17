@@ -1,0 +1,2 @@
+# community
+Haskell China Community.
