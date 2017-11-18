@@ -11,7 +11,7 @@
 * GitHub 的 Issue tracker 功能强大，可以使用 # 在各 issue 之间进行引用
 * 可以使用关键词搜索感兴趣的话题
 * 可以加各种标签增强检索功能
-* 精华帖子可以在 http://HaskellChina.org 的首页展示
+* 精华帖子会展示在 http://HaskellChina.org 的首页
 
 **如何访问：**
 
