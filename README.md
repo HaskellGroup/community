@@ -23,4 +23,4 @@
 
 **使用 Wiki 沉淀内容：** 欢迎在本 Repo 的 [Wiki 页面](https://github.com/hskll/community/wiki)协同编辑感兴趣的内容
 
-**请受邀已加入本群组的各位 Member 把可见设置为 `Public`，谢谢！
+**请受邀已加入本群组的各位 [Members](https://github.com/orgs/hskll/people) 把可见设置为 `Public`，谢谢！**
