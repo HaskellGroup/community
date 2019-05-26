@@ -16,10 +16,11 @@
 **如何访问：**
 
 * 从 [Haskell China 首页](http://haskellchina.org/)点击“Haskell 社区”进入
-* 使用 http://bbs.haskellchina.org 转向该 Issues 页面
 * 或者直接访问该 Issues 页面：https://github.com/hskll/community/issues
 * 你也可以 star 本项目，每次从 Issues 标签页点入
 
 **如何发帖：** 在 [Issues 页面](https://github.com/hskll/community/issues)点击右侧的 `New issue` 按钮即可发帖
 
 **使用 Wiki 沉淀内容：** 欢迎在本 Repo 的 [Wiki 页面](https://github.com/hskll/community/wiki)协同编辑感兴趣的内容
+
+**请受邀已加入本群组的各位 Member 把可见设置为 `Public`，谢谢！
